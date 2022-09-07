@@ -20,5 +20,3 @@ desk1.addEventListener('click', () => {
     desk.classList.toggle('hidden')
 })
 
-
-
